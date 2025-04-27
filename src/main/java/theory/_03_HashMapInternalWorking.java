@@ -1,3 +1,5 @@
+package theory;
+
 import java.util.HashMap;
 
 public class _03_HashMapInternalWorking {

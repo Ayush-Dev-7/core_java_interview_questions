@@ -1,8 +1,10 @@
-import support.problem2.Singleton;
-import support.problem2.factory.Feline;
-import support.problem2.factory.FelineFactory;
+package theory;
 
-public class _2_PrivateConstructor {
+import theory_support.problem2.Singleton;
+import theory_support.problem2.factory.Feline;
+import theory_support.problem2.factory.FelineFactory;
+
+public class _02_PrivateConstructor {
 //    Question : Can a constructor be private ?
 //    Answer :  Yes
 //    Usage : Singleton design pattern, factory pattern, Static utility methods

@@ -1,4 +1,6 @@
-public class _1_DoubleEqualsVsDotEquals {
+package theory;
+
+public class _01_DoubleEqualsVsDotEquals {
 //    Question : Explain the difference between "==" and ".equals()" method
 
     public static void main(String[] args) {
