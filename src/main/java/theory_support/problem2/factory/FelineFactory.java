@@ -1,4 +1,4 @@
-package support.problem2.factory;
+package theory_support.problem2.factory;
 
 public final class FelineFactory {
 

@@ -1,5 +1,7 @@
-import support.problem4.UsingComparable;
-import support.problem4.UsingComparator;
+package theory;
+
+import theory_support.problem4.UsingComparable;
+import theory_support.problem4.UsingComparator;
 
 public class _04_ComparatorVsComparable {
 

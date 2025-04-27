@@ -1,4 +1,4 @@
-package support.problem4;
+package theory_support.problem4;
 
 import java.util.ArrayList;
 

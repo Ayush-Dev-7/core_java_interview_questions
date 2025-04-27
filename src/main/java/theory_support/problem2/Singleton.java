@@ -1,4 +1,4 @@
-package support.problem2;
+package theory_support.problem2;
 
 //    Singleton design pattern allows only 1 instance of a class to be created.
 public class Singleton {
